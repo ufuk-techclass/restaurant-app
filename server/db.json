@@ -1,0 +1,54 @@
+{
+  "restaurants": [
+    {
+      "title": "Olutravintola Pikkulintu",
+      "author": "Markku ",
+      "email": "markku@markku.fi",
+      "id": 1
+    },
+    {
+      "title": "Roastery’s Coffee Bar",
+      "author": "Ilkka Siren",
+      "email": "info@helsinginroastery.com",
+      "id": 2
+    },
+    {
+      "title": "Gastro Cafe Kallio",
+      "author": "Julia & Kare",
+      "email": "myynti@commontable.fi",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "title": "Markku",
+      "password": "1234",
+      "email": "markku@markku.fi",
+      "id": 1
+    },
+    {
+      "title": "Julia",
+      "password": "Julia1234",
+      "email": "Julia@hotmail.fi",
+      "id": 2
+    },
+    {
+      "title": "user1",
+      "password": "user1",
+      "email": "user1@user1.com",
+      "id": 3
+    },
+    {
+      "title": "guest",
+      "password": "guest",
+      "email": "guest@gmail.com",
+      "id": 4
+    },
+    {
+      "title": "d",
+      "password": "d",
+      "email": "d",
+      "id": 5
+    }
+  ]
+}
